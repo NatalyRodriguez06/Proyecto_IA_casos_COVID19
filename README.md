@@ -9,7 +9,7 @@ de Inteligencia Artificial de la Universidad de Antioquia
 
 ## Miembros del equipo
 
-- Nataly Rodriguez Ateourtua, C.C 1001505918, Bioingeniería
+- Nataly Rodriguez Atehourtua, C.C 1001505918, Bioingeniería
 - Juan Camilo Cataño Zuleta, C.C 1001738289, Bioingeniería
 - Daniel Enrique López Yepes, C.C 1000407016, Bioingeniería
 
