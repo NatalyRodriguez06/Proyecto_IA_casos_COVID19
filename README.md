@@ -28,4 +28,4 @@ valores o si simplemente se generan de forma aleatoria.
 ## Entregas
 
 Desde este espacio se puede acceder a las distintas entregas:
-- [Primera entrega](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/Primera_Entrega/Proyecto_Entrega%201.pdf)
+- [Primera entrega](Proyecto_Entrega 1.pdf)
