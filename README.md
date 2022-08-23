@@ -27,3 +27,4 @@ Para visualizar el set de datos puede usarse el siguiente link: [Abrir en Collab
 
 Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_ENTREGA1.pdf)
+- [Segunda entrega] (https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_ENTREGA2.pdf)
