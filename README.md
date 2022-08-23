@@ -16,13 +16,11 @@ de Inteligencia Artificial de la Universidad de Antioquia
 
 ## Set de datos
 
-El set de datos que vamos a utilizar es [Diagnóstico de COVID-19 y su espectro clínico](https://www.kaggle.com/datasets/einsteindata4u/covid19?resource=download).
-Este set de datos contiene información anonimizada de distintas partes del mundo, como lo es
-Israel y Brasil, con el fin de analizar cómo es el comportamiento de la COVID-19.
+El set de datos que vamos a utilizar es COVID-19 dataset. Este set de datos contiene información anonimizada de distintas partes del mundo, como lo es Israel y Brasil, con el fin de analizar cómo es el comportamiento de la [COVID-19](https://www.kaggle.com/datasets/georgesaavedra/covid19-dataset).
 
-El set de datos tiene mucha información según resultados de pruebas que se les practicaron
-a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patrón en estos
-valores o si simplemente se generan de forma aleatoria.
+El set de datos tiene mucha información según resultados de pruebas que se les practicaron a los pacientes, con el fin de ver si las infecciones pueden arrojar algún patrón en estos valores o si simplemente se generan de forma aleatoria.
+
+Para visualizar el set de datos puede usarse el siguiente link: [Abrir en Collab](https://colab.research.google.com/drive/1BNubTrf9nF2ckUaa7KarQtKq7UStJwjh?usp=sharing)
 
 
 ## Entregas
