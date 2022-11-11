@@ -69,7 +69,7 @@ Y con ello los datos ya estarán disponibles. Es posible guardar también los da
 Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_ENTREGA1.pdf)
 - [Segunda entrega](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_ENTREGA2.pdf)
-- [Entrega final](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_INFORME_FINAL.pdf)
+- [Entrega final](https://github.com/NatalyRodriguez06/Proyecto_IA_casos_COVID19/blob/main/PROYECTO_ENTREGA_FINAL.pdf)
 
 ## Videos
 
